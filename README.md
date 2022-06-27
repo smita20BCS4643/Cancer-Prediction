@@ -1,1 +1,1 @@
-# Cancer-Prediction-with-Logistic-Regression
+# Cancer-Prediction-with-multiple-Regression
